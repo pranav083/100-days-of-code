@@ -6,6 +6,8 @@
 | --- | -------- | ------- | -------- | --------- | -------- | ----- |
 | 0   | 01-13-24 | Y, Y, Y | Y        | N         | Y        |       |
 | 1   | 01-14-24 | Y, Y, Y |          | N         | Y        |       |
+| 2   | 01-15-24 | Y, Y, Y |          | N         | Y        |       |
+
 
 **Note:**
 * Chores include: Bath, Exercise, Gita  
@@ -23,4 +25,13 @@
 <!-- * Opened Leetcode and solved 2 problems. -->
 * studied about dockerfile and how to everything in single container.
 
-<!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Wasted time:**
+* extra 2 hours went into cooking.
+* 2 hour on youtube.
+
+### Day 2: January 15, 2024
+**Today's Progress**:
+* building docker image and try to compile my code their.
+
+**Wasted time:**
+* 2 hour on youtube and watching news.
