@@ -1,8 +1,8 @@
 | Day   | Date       | Time  | Progress | Bath | Exercise | Gita | Leetcode | Intership | Lab work | Course Study | People connect|
 | ----- | ---------- | ----- | -------- | ---- | -------- | ---- | -------- | --------- | -------- | ------------ |--------------|
 | **0** | 01-13-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
-| **1** | 01-14-2024 | 10:00 |  [x]      | [x] | [x]     | [x] |       []       | []       | [x]       | [x]      |       []     | 
-| **2** | 01-15-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
+| **1** | 01-14-2024 | 10:00 |  [x]      | [x] | [x]     | []  |       []       | []       | [x]       | [x]      |       []     | 
+| **2** | 01-15-2024 | 10:00 |  [x]      | []  | []      | []  |       [x]      | []       | [x]       | []       |       []     | 
 | **1** | 01-16-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 | **1** | 01-17-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 | **1** | 01-18-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
@@ -32,4 +32,14 @@ Jan 14, 2024
 - Lab Work : Yes in lab I am doing kubernetes and task is of argoworkflow 
 - People Connect : 
 - LeetCode : 
+
+
+Jan 14, 2024 
+
+- Bath, Exercise, Gita : Did nothing :(
+- Coursework : I tried to studied patter recog for 1 hr but was not effective enough
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode : Looked for resources to revise c++ concepts and started DSA - recursion revision - 2hr
 
