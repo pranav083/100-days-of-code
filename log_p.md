@@ -5,8 +5,9 @@
 | Day | Date     | Chores  | Leetcode | Intership | Lab work | Extra |
 | --- | -------- | ------- | -------- | --------- | -------- | ----- |
 | 0   | 01-13-24 | Y, Y, Y | Y        | N         | Y        |       |
-| 1   | 01-14-24 | Y, Y, Y |          | N         | Y        |       |
-| 2   | 01-15-24 | Y, Y, Y |          | N         | Y        |       |
+| 1   | 01-14-24 | Y, Y, Y | N        | N         | Y        |       |
+| 2   | 01-15-24 | Y, Y, Y | N        | N         | Y        |       |
+| 3   | 01-16-24 | N, Y, N |          | N         | N        | Y     |
 
 
 **Note:**
@@ -35,3 +36,12 @@
 
 **Wasted time:**
 * 2 hour on youtube and watching news.
+
+
+### Day 3: January 16, 2024
+**Today's Progress**:
+* **Extra** : study about baby steps finanacial planning from the ramsey podcast. link : https://www.youtube.com/watch?v=OO25TrVo_dU
+
+**Wasted time:**
+* 2 hour on youtube and watching news.
+* slept for 3 hours extra.
