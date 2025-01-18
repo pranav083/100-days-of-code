@@ -8,6 +8,7 @@
 | 1   | 01-14-24 | Y, Y, Y | N        | N         | Y        |       |
 | 2   | 01-15-24 | Y, Y, Y | N        | N         | Y        |       |
 | 3   | 01-16-24 | N, Y, N |          | N         | N        | Y     |
+| 4   | 01-17-24 | Y, Y, N |          | N         | N        | Y     |
 
 
 **Note:**
@@ -23,7 +24,6 @@
 
 ### Day 1: January 14, 2024
 **Today's Progress**:
-<!-- * Opened Leetcode and solved 2 problems. -->
 * studied about dockerfile and how to everything in single container.
 
 **Wasted time:**
@@ -45,3 +45,15 @@
 **Wasted time:**
 * 2 hour on youtube and watching news.
 * slept for 3 hours extra.
+
+### Day 4: January 17, 2024
+**Today's Progress**:
+* worked on my resume.
+* worked on the my lab work.
+
+**Thoughts:**
+* I have to start my day early.
+* I have to give more time to my studies and myself.
+
+**Wasted time:**
+* 2 hour on youtube and watched 2 movies.
