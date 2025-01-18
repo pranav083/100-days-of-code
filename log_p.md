@@ -8,7 +8,8 @@
 | 1   | 01-14-24 | Y, Y, Y | N        | N         | Y        |       |
 | 2   | 01-15-24 | Y, Y, Y | N        | N         | Y        |       |
 | 3   | 01-16-24 | N, Y, N |          | N         | N        | Y     |
-| 4   | 01-17-24 | Y, Y, N |          | N         | N        | Y     |
+| 4   | 01-17-24 | Y, Y, Y |          | N         | N        | N     |
+| 5   | 01-18-24 | Y, Y, Y |          | N         | N        | N     |
 
 
 **Note:**
@@ -50,10 +51,20 @@
 **Today's Progress**:
 * worked on my resume.
 * worked on the my lab work.
-
+* today I did 35 min of exercise.
+* Good website for gita study : https://www.holy-bhagavad-gita.org/chapter/1/verse/1
 **Thoughts:**
 * I have to start my day early.
 * I have to give more time to my studies and myself.
 
 **Wasted time:**
 * 2 hour on youtube and watched 2 movies.
+### Day 5: January 18, 2024
+**Today's Progress**:
+* done a lot of exercise and getting pain in my body.
+
+
+**Wasted time:**
+* mostly productive day.
+* help in people to shift the house.
+
