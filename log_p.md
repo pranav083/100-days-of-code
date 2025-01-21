@@ -10,6 +10,9 @@
 | 3   | 01-16-24 | N, Y, N |          | N         | N        | Y     |
 | 4   | 01-17-24 | Y, Y, Y |          | N         | N        | N     |
 | 5   | 01-18-24 | Y, Y, Y |          | N         | N        | N     |
+| 6   | 01-19-24 | N, Y, N |          | N         | N        | N     |
+| 7   | 01-20-24 | N, Y, N |          | N         | N        | N     |
+| 8   | 01-21-24 | Y, Y, N |          | N         | Y        | N     |
 
 
 **Note:**
@@ -67,4 +70,26 @@
 **Wasted time:**
 * mostly productive day.
 * help in people to shift the house.
+### Day 6: January 19, 2024
+**Today's Progress**:
+* did very less useful work.
+* it was a recovery day.
+
+**Wasted time:**
+* 2 hour on youtube and watching news.
+
+### Day 7: January 20, 2024
+**Today's Progress**:
+* did very less useful work.
+* did exercise today.
+
+**Wasted time:**
+* 2 hour on youtube and watching news.
+### Day 8: January 21, 2024
+**Today's Progress**:
+* did exercise today.
+* college class started.
+
+**Wasted time:**
+
 
