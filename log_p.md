@@ -7,12 +7,13 @@
 | 0   | 01-13-24 | Y, Y, Y | Y        | N         | Y        |       |
 | 1   | 01-14-24 | Y, Y, Y | N        | N         | Y        |       |
 | 2   | 01-15-24 | Y, Y, Y | N        | N         | Y        |       |
-| 3   | 01-16-24 | N, Y, N |          | N         | N        | Y     |
-| 4   | 01-17-24 | Y, Y, Y |          | N         | N        | N     |
-| 5   | 01-18-24 | Y, Y, Y |          | N         | N        | N     |
-| 6   | 01-19-24 | N, Y, N |          | N         | N        | N     |
-| 7   | 01-20-24 | N, Y, N |          | N         | N        | N     |
-| 8   | 01-21-24 | Y, Y, N |          | N         | Y        | N     |
+| 3   | 01-16-24 | N, Y, N | N        | N         | N        | Y     |
+| 4   | 01-17-24 | Y, Y, Y | N        | N         | N        | N     |
+| 5   | 01-18-24 | Y, Y, Y | N        | N         | N        | N     |
+| 6   | 01-19-24 | N, Y, N | N        | N         | N        | N     |
+| 7   | 01-20-24 | N, Y, N | N        | N         | N        | N     |
+| 8   | 01-21-24 | Y, Y, N | N        | N         | Y        | N     |
+| 9   | 01-22-24 | Y, Y, Y | N        | N         | Y        | N     |
 
 
 **Note:**
@@ -89,6 +90,14 @@
 **Today's Progress**:
 * did exercise today.
 * college class started.
+
+**Wasted time:**
+* did not waste time today due to  college class.
+
+### Day 9: January 22, 2024
+**Today's Progress**:
+* did exercise today.
+* working in the SSRG lab.
 
 **Wasted time:**
 
