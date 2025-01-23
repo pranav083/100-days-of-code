@@ -14,6 +14,7 @@
 | 7   | 01-20-24 | N, Y, N | N        | N         | N        | N     |
 | 8   | 01-21-24 | Y, Y, N | N        | N         | Y        | N     |
 | 9   | 01-22-24 | Y, Y, Y | N        | N         | Y        | N     |
+| 10  | 01-23-24 | Y, Y, Y | N        | N         | Y        | N     |
 
 
 **Note:**
@@ -100,5 +101,12 @@
 * working in the SSRG lab.
 
 **Wasted time:**
+* i slept for 3 hours extra because i slept very early.
+* otherthan that i did not waste time today.
 
+### Day 10: January 23, 2024
+**Today's Progress**:
+* did exercise today.
+* I have class today
 
+**Wasted time:**
