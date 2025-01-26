@@ -16,7 +16,8 @@
 | 9   | 01-22-24 | Wed | Y, Y, Y | N        | N         | Y        | N     |
 | 10  | 01-23-24 | Thr | Y, Y, Y | N        | N         | Y        | N     |
 | 11  | 01-24-24 | Fri | Y, Y, N | N        | N         | Y        | N     |
-| 12  | 01-25-24 | Sat | Y, Y, Y | N        | N         | Y        | N     |
+| 12  | 01-25-24 | Sat | Y, Y, N | N        | N         | Y        | N     |
+| 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
 
 
 **Note:**
@@ -128,8 +129,7 @@
 **Today's Progress**:
 * did exercise today.
 * did research work today on my installation of linux kernel.
-<!-- * Have to study LLVM documentation especially the clang compiler. -->
-<!-- * Have to complete installation of virtualization tools called NEMU and install ubuntu in it. -->
+* Have to complete installation of virtualization tools called NEMU and install ubuntu in it.-- half done
 
 **Wasted time:**
 * talked a lot with my friends and family.  
@@ -138,3 +138,11 @@
 * I have to walkdown on my goals and my on path and put the energy in myself.
 * because put energy otherway not bringing any result to me.
 
+### Day 13: January 26, 2024 - Sunday
+**Today's Progress**:
+* did exercise today.
+* did research work today on my installation of linux kernel.
+* Study LLVM compiler on which clang is build documentation especially the clang compiler.
+**Wasted time:**
+* wake up little late.
+* was little stressed yesterday.
