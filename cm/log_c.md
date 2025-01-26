@@ -11,8 +11,8 @@
 | **1** | 01-21-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 | **1** | 01-22-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 | **1** | 01-23-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
-| **1** | 01-24-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
-| **1** | 01-25-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
+| **1** | 01-24-2024 | 10:00 |  [x]      | []  | []      | [**Y**] |       []       | []       | [**Y**]       | []       |       [**Y**]     | 
+| **1** | 01-25-2024 | 10:00 |  [Y]      | [] | [**Y**]     | [**Y**] |       [**Y**]      | []      | [**Y**]       | [**Y**]      |       [**Y**]    | 
 | **1** | 01-26-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 
 
@@ -42,4 +42,44 @@ Jan 15, 2024
 - Lab Work : 
 - People Connect : 
 - LeetCode : Looked for resources to revise c++ concepts and started DSA - recursion revision - 2hr
+
+
+Jan 24, 2024 
+
+- Bath, Exercise, Gita : Listened Gita only 
+- Coursework : No 
+- Internship : No 
+- Lab Work : Yes, got worked on kubernetes, senior also offered to work for his research paper on Parrie Dog detection ! 
+- People Connect : Yes Pranav introduced me with Pankhuri Di (CSE Georgia tech passout 2024) 
+- LeetCode : No 
+
+Jan 25, 2024   
+AieLFnP :) 
+
+- Bath, Exercise, Gita : I went to gym today ( 45 min ), Did rock climbing it felt so stress free after free falling from height (1hr) , listen gita - again     started from adhyay 1  
+- Coursework : Started my assignment thats due tomorrow ! 
+- Internship : No .... just overthinking about it not working on it ! so scared af :( 
+- Lab Work : Just texted lab member to schedule the meeting for research project ! 
+- People Connect : Yes met new people at rock climbing, went for weekend shopping , talked with Gagan for help on microservices 
+- LeetCode : Yes solved 1 question
+
+
+Jan 26, 2024    
+Happy Republic Day India :) 
+
+- Bath, Exercise, Gita : 
+- Coursework : 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode :
+
+Jan 27, 2024 
+
+- Bath, Exercise, Gita : 
+- Coursework : 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode : 
 
