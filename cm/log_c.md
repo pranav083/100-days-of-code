@@ -13,7 +13,7 @@
 | **1** | 01-23-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
 | **1** | 01-24-2024 | 10:00 |  [x]      | []  | []      | [**Y**] |       []       | []       | [**Y**]       | []       |       [**Y**]     | 
 | **1** | 01-25-2024 | 10:00 |  [Y]      | [] | [**Y**]     | [**Y**] |       [**Y**]      | []      | [**Y**]       | [**Y**]      |       [**Y**]    | 
-| **1** | 01-26-2024 | 10:00 |  [x]      | []  | []      | []  |       []       | []       | [x]       | []       |       []     | 
+| **1** | 01-26-2024 | 10:00 |  [Y]      | []  | [**Y**]      | []  |       [**Y**]       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
 
 
 Jan 13, 2024 
@@ -67,6 +67,15 @@ AieLFnP :)
 Jan 26, 2024    
 Happy Republic Day India :) 
 
+- Bath, Exercise, Gita : Only Did home workout ( 7min exercise ) , it was raining outside since morning, lazy enough after yesterday heavy workout and all room cleaning and Meal Prep for weak ! 
+- Coursework : Completed assignment with chatgpt help for optimal estimation and filtering , some concepts still unclear , need to do within this week ! 
+- Internship : No , stressed enough or don't know , more time management required 
+- Lab Work : Damn at 4.30pm I realized I need to check meeting timing for today, I didn't got his slack notification as well, he messaged yesterday its today 2pm but I forgot as I didn't got his notification so messaged him if he is available but he asked to do for monday and shared the 2 research git repo to go through , I have to do early morning tomorrow ! 
+- People Connect : Just small talk with roommates, and called friend to discuss one assignment question 
+- LeetCode : solved one recursion but took help from gpt as well to understand its stack frame :( 
+
+Jan 27, 2024 
+
 - Bath, Exercise, Gita : 
 - Coursework : 
 - Internship : 
@@ -74,7 +83,7 @@ Happy Republic Day India :)
 - People Connect : 
 - LeetCode :
 
-Jan 27, 2024 
+Jan 28, 2024 
 
 - Bath, Exercise, Gita : 
 - Coursework : 
