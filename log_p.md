@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
+**Goals:** 
 
+* Complete the 100 Days of Code Challenge.
+* Topics to learn:
+  * For SSRG lab:
+    * Jump call in compiler design.
+    * LLVM compiler.: [LLVM](https://llvm.org/docs/)
+    * CFG or control flow graph.
+    * Gold Linker : https://sourceware.org/binutils/
+  * For internship:
+    * AUTOSAR documentation
 
 | Day | Date     | Day | Chores  | Leetcode | Intership | Lab work | Extra |
 | --- | -------- |---- | ------- | -------- | --------- | -------- | ----- |
@@ -14,10 +24,11 @@
 | 7   | 01-20-24 | Mon | N, Y, N | N        | N         | N        | N     |
 | 8   | 01-21-24 | Tue | Y, Y, N | N        | N         | Y        | N     |
 | 9   | 01-22-24 | Wed | Y, Y, Y | N        | N         | Y        | N     |
-| 10  | 01-23-24 | Thr | Y, Y, Y | N        | N         | Y        | N     |
-| 11  | 01-24-24 | Fri | Y, Y, N | N        | N         | Y        | N     |
+| 10  | 01-23-24 | Thr | Y, Y, Y | N        | N         | N        | N     |
+| 11  | 01-24-24 | Fri | Y, Y, N | N        | N         | N        | N     |
 | 12  | 01-25-24 | Sat | Y, Y, N | N        | N         | Y        | N     |
 | 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
+| 14  | 01-27-24 | Mon | Y, Y, Y | N        | N         | Y        | N     |
 
 
 **Note:**
@@ -143,6 +154,22 @@
 * did exercise today.
 * did research work today on my installation of linux kernel.
 * Study LLVM compiler on which clang is build documentation especially the clang compiler.
+* Finally able to install the QEMU instead of NEMU as the code was clear enough. And it took me 6 hours to understand and install everthing.
+* But only success to install cloud version. And I am thinking of writing a blog on how to install QEMU inside ubuntu server and inside that tha ubuntu cloud.
 **Wasted time:**
 * wake up little late.
 * was little stressed yesterday.
+
+**Thoughts:**
+* I like the way C write daily activity. I will also follow the same.
+* And It help me to keep track of things which I am forgetting.
+
+### Day 14: January 27, 2024 - Monday
+**Today's Progress**:
+* Bath, Exercise, Gita : Done all with 20 min of exercise.
+* Lab work : Study about LLVM and this paper: [Paper Link](https://arxiv.org/pdf/2007.14266)
+* Intership : 
+* Leetcode : solve 1 question just started.
+* Linkedin :
+* Extra :
+
