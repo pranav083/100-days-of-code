@@ -14,6 +14,8 @@
 | **1** | 01-24-2024 | 10:00 |  [x]      | []  | []      | [**Y**] |       []       | []       | [**Y**]       | []       |       [**Y**]     | 
 | **1** | 01-25-2024 | 10:00 |  [Y]      | [] | [**Y**]     | [**Y**] |       [**Y**]      | []      | [**Y**]       | [**Y**]      |       [**Y**]    | 
 | **1** | 01-26-2024 | 10:00 |  [Y]      | []  | [**Y**]      | []  |       [**Y**]       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
+| **1** | 01-26-2024 | 10:00 |  [Y]      | [**Y**]  | []      | []  |       []       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
+| **1** | 01-26-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
 
 
 Jan 13, 2024 
@@ -76,12 +78,12 @@ Happy Republic Day India :)
 
 Jan 27, 2024 
 
-- Bath, Exercise, Gita : 
-- Coursework : 
+- Bath, Exercise, Gita : I did headwash 
+- Coursework : Applied for TA, completed one assignment due today :( started today only was very difficult I should not repeat for starting assignment last day .... it was so difficult only because i did not studied the week before ... no more excuses ! 
 - Internship : 
-- Lab Work : 
-- People Connect : 
-- LeetCode :
+- Lab Work : Got research work from that team member on object detection for small objects and was working on kubernetes task as well , work load is increasing day by day as I have other research thread as well that is on uncertainity estimation... don't know how to balance between 3 ! 
+- People Connect : yeah sent 20 linked request to people ... , and also setup the linkedin premimum for 1 month free ! 
+- LeetCode :  Tired enough ... 
 
 Jan 28, 2024 
 
