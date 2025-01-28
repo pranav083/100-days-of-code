@@ -28,7 +28,8 @@
 | 11  | 01-24-24 | Fri | Y, Y, N | N        | N         | N        | N     |
 | 12  | 01-25-24 | Sat | Y, Y, N | N        | N         | Y        | N     |
 | 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
-| 14  | 01-27-24 | Mon | Y, Y, Y | N        | N         | Y        | N     |
+| 14  | 01-27-24 | Mon | Y, Y, Y | Y        | N         | Y        | N     |
+| 15  | 01-28-24 | Tue | Y, Y, Y | Y        | N         | Y        | N     |
 
 
 **Note:**
@@ -173,3 +174,17 @@
 * Linkedin :
 * Extra :
 
+**Wasted time:**
+* 1 hour on youtube and watching news.
+
+### Day 15: January 28, 2024 - Tuesday
+**Today's Progress**:
+* Bath, Exercise, Gita : today was recovery day.
+* Lab work : Study about LLVM and this paper: [Paper Link](https://arxiv.org/pdf/2007.14266)
+* Intership : 
+* Leetcode : solve 1 question just started on tree.
+* Linkedin : connected with 5 people.
+* Extra :
+
+**Wasted time:**
+* 1 hour on youtube and watching news.
