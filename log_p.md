@@ -29,7 +29,8 @@
 | 12  | 01-25-24 | Sat | Y, Y, N | N        | N         | Y        | N     |
 | 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
 | 14  | 01-27-24 | Mon | Y, Y, Y | Y        | N         | Y        | N     |
-| 15  | 01-28-24 | Tue | Y, Y, Y | Y        | N         | Y        | N     |
+| 15  | 01-28-24 | Tue | Y, Y, N | Y        | N         | N        | N     |
+| 16  | 01-29-24 | Wed | Y, Y, Y | Y        | N         | Y        | N     |
 
 
 **Note:**
@@ -180,11 +181,35 @@
 ### Day 15: January 28, 2024 - Tuesday
 **Today's Progress**:
 * Bath, Exercise, Gita : today was recovery day.
+* Lab work : 
+* Intership : 
+* Leetcode : solve 1 question just started on tree.
+* Linkedin : connected with 5 people.
+* Extra : studing about compiler and how grammer works in the compiler.
+        * [playlist link 1](https://www.youtube.com/watch?v=ynp1oXA7d6w&list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM&index=5)
+        * [playlist link 2](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
+
+**Wasted time:**
+* 1 hour on youtube and watching news.
+**Thoughts:**
+* I will write my goals befor hand so that i keep track of my work better.
+
+### Day 16: January 29, 2024 - Wednesday
+**Daily Goals:**
+* College : study compiler course and Real-time system assignment 0.
+* Lab work : complete the Compiler paper today. and write the question on the paper pdf.
+* Intership and Linkedin : update the resume and connect with 5 people.
+* Leetcode : 
+* Extra : 
+  
+**Today's Progress**:
+* Bath, Exercise, Gita : did exercise today.
 * Lab work : Study about LLVM and this paper: [Paper Link](https://arxiv.org/pdf/2007.14266)
 * Intership : 
 * Leetcode : solve 1 question just started on tree.
 * Linkedin : connected with 5 people.
-* Extra :
+* Extra : 
 
 **Wasted time:**
 * 1 hour on youtube and watching news.
+* Wake up time : 6:30 am but actually wake up at 8:00 am and wasted 2 hours in the morning.
