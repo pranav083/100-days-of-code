@@ -87,6 +87,15 @@ Jan 27, 2024
 
 Jan 28, 2024 
 
+- Bath, Exercise, Gita : I got sick :(, my  roomamte also tested covid positive ! 
+- Coursework : Went for class and library to get course books 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode :
+
+Jan 28, 2024 
+
 - Bath, Exercise, Gita : 
 - Coursework : 
 - Internship : 
