@@ -30,7 +30,8 @@
 | 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
 | 14  | 01-27-24 | Mon | Y, Y, Y | Y        | N         | Y        | N     |
 | 15  | 01-28-24 | Tue | Y, Y, N | Y        | N         | N        | N     |
-| 16  | 01-29-24 | Wed | Y, Y, Y | Y        | N         | Y        | N     |
+| 16  | 01-29-24 | Wed | Y, Y, Y | Y        | Y         | Y        | N     |
+| 17  | 01-30-24 | Thr | Y, Y, Y | Y        | N         | Y        | N     |
 
 
 **Note:**
@@ -188,7 +189,7 @@
 * Extra : studing about compiler and how grammer works in the compiler.
         * [playlist link 1](https://www.youtube.com/watch?v=ynp1oXA7d6w&list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM&index=5)
         * [playlist link 2](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
-
+        * [playlist link 3](https://www.youtube.com/watch?v=5ZmFlxrNaN8&list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 **Wasted time:**
 * 1 hour on youtube and watching news.
 **Thoughts:**
@@ -196,9 +197,9 @@
 
 ### Day 16: January 29, 2024 - Wednesday
 **Daily Goals:**
-* College : study compiler course and Real-time system assignment 0.
-* Lab work : complete the Compiler paper today. and write the question on the paper pdf.
-* Intership and Linkedin : update the resume and connect with 5 people.
+* College : study compiler course and Real-time system assignment 0. **Done**
+* Lab work : complete the Compiler paper today. and write the question on the paper pdf. **Not done**
+* Intership and Linkedin : update the resume and connect with 5 people. **Done**
 * Leetcode : 
 * Extra : 
   
@@ -212,4 +213,48 @@
 
 **Wasted time:**
 * 1 hour on youtube and watching news.
+* watch 2 movies on prime video. 1. around the world in 80 days and 2. sponge bob. (feel like wasted time)
+* logout from the prime video.
 * Wake up time : 6:30 am but actually wake up at 8:00 am and wasted 2 hours in the morning.
+
+
+### Day 17: January 30, 2024 - Thursday
+**Daily Goals:**
+* College : today only study linux and compiler and progress on the nesoacademy course.
+* Lab work : complete the paper today with questions.
+* Intership and Linkedin : connect with 4 more people and apply with updated resume.
+* Leetcode : do 2 question on leetcode
+* Extra :
+
+**Today's Progress**:
+* Bath, Exercise, Gita : did 25 minute exercise today.
+* Lab work : 
+* Intership : applied to my first place in embedded related role.
+* Leetcode : not did any question 
+* Linkedin : 
+* Extra : 
+
+**Wasted time:**
+* 
+
+**Thoughts:**
+* today i wake up early and it feel good but take a lot of effor to do that.
+<!-- Template for the log file: -->
+<!-- ### Day 1: January 13, 2024 - Monday
+**Daily Goals:**
+* College :
+* Lab work :
+* Intership and Linkedin :
+* Leetcode :
+* Extra :
+
+**Today's Progress**:
+* Bath, Exercise, Gita :
+* Lab work : 
+* Intership : 
+* Leetcode : 
+* Linkedin : 
+* Extra : 
+
+**Wasted time:**
+* -->
