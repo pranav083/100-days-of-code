@@ -30,8 +30,9 @@
 | 13  | 01-26-24 | Sun | Y, Y, Y | N        | N         | Y        | N     |
 | 14  | 01-27-24 | Mon | Y, Y, Y | Y        | N         | Y        | N     |
 | 15  | 01-28-24 | Tue | Y, Y, N | Y        | N         | N        | N     |
-| 16  | 01-29-24 | Wed | Y, Y, Y | Y        | Y         | Y        | N     |
-| 17  | 01-30-24 | Thr | Y, Y, Y | Y        | N         | Y        | N     |
+| 16  | 01-29-24 | Wed | Y, Y, Y | 1        | 1         | Y        | N     |
+| 17  | 01-30-24 | Thr | Y, Y, Y | N        | N         | Y        | N     |
+| 18  | 01-31-24 | Fri | Y, Y, Y | Y        | N         | Y        | N     |
 
 
 **Note:**
@@ -220,10 +221,10 @@
 
 ### Day 17: January 30, 2024 - Thursday
 **Daily Goals:**
-* College : today only study linux and compiler and progress on the nesoacademy course.
-* Lab work : complete the paper today with questions.
-* Intership and Linkedin : connect with 4 more people and apply with updated resume.
-* Leetcode : do 2 question on leetcode
+* College : today only study linux and compiler and progress on the nesoacademy course. **Done**
+* Lab work : complete the paper today with questions. **Not Done**
+* Intership and Linkedin : connect with 4 more people and apply with updated resume. **half done**
+* Leetcode : do 2 question on leetcode **Not done**
 * Extra :
 
 **Today's Progress**:
@@ -235,10 +236,31 @@
 * Extra : 
 
 **Wasted time:**
-* 
+* watched 1 movies phone booth and watched 1 hour of youtube video.
 
 **Thoughts:**
 * today i wake up early and it feel good but take a lot of effor to do that.
+
+### Day 18: January 31, 2024 - Friday
+**Daily Goals:**
+* College : install LLVM and watch the video again of compiler optimization.
+* Lab work : complete the paper today with questions.
+* Intership and Linkedin : connect with 4 more people.
+* Leetcode : do alleast 1 question.
+* Extra :
+
+**Today's Progress**:
+* Bath, Exercise, Gita : did 10 minute exercise today.
+* Lab work : paper study done for binany disassembly tools collection.
+* Intership : 
+* Leetcode : 
+* Linkedin : 
+* Extra : Waking 1 hour before helping me to do more work in the day.
+
+**Wasted time:**
+* 
+
+
 <!-- Template for the log file: -->
 <!-- ### Day 1: January 13, 2024 - Monday
 **Daily Goals:**
@@ -257,4 +279,5 @@
 * Extra : 
 
 **Wasted time:**
-* -->
+* 
+-->
