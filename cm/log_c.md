@@ -14,8 +14,14 @@
 | **1** | 01-24-2024 | 10:00 |  [x]      | []  | []      | [**Y**] |       []       | []       | [**Y**]       | []       |       [**Y**]     | 
 | **1** | 01-25-2024 | 10:00 |  [Y]      | [] | [**Y**]     | [**Y**] |       [**Y**]      | []      | [**Y**]       | [**Y**]      |       [**Y**]    | 
 | **1** | 01-26-2024 | 10:00 |  [Y]      | []  | [**Y**]      | []  |       [**Y**]       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
-| **1** | 01-26-2024 | 10:00 |  [Y]      | [**Y**]  | []      | []  |       []       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
-| **1** | 01-26-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
+| **1** | 01-27-2024 | 10:00 |  [Y]      | [**Y**]  | []      | []  |       []       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
+| **1** | 01-28-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | [**Y**]       |       []     | 
+| **1** | 01-29-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | [**Y**]       | []       |       []     | 
+| **1** | 01-30-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | [**Y**]       | []       |       []     | 
+| **1** | 01-31-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | [**Y**]       | [**Y**]       | []       |       []     | 
+| **1** | 02-01-2024 | 10:00 |  [Y]      | [**Y**]  | [**Y**]      | [**Y**]  |       []       | []       | []       | []       |       []     | 
+| **1** | 02-02-2024 | 10:00 |  [Y]      | [**Y**]  | [**Y**]      | [**Y**]  |       []       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
+| **1** | 02-03-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
 
 
 Jan 13, 2024 
@@ -94,12 +100,64 @@ Jan 28, 2024
 - People Connect : 
 - LeetCode :
 
-Jan 28, 2024 
+Jan 29, 2024 
+
+- Bath, Exercise, Gita : Nothing 
+- Coursework : 
+- Internship : Tired after lab work ! 
+- Lab Work : Yes, I spent lab 7 hours till 9.30pm to complete one bug and finish the things of task ( argo workflows ) 
+- People Connect : 
+- LeetCode :
+
+
+Jan 30, 2024 
+
+- Bath, Exercise, Gita : Nothing 
+- Coursework : 
+- Internship : Tired after lab work ! 
+- Lab Work : Started working on new task of other team in lab for ICCV work , this is research work , came from lab 8pm 
+- People Connect : 
+- LeetCode :
+
+
+Jan 31, 2024 
 
 - Bath, Exercise, Gita : 
+- Coursework : 
+- Internship : Wasted a lot of time on youtube but saved lot of jobs / internship on linkedIn  ! 
+- Lab Work : Yes had morning lab work with professors , and tried to finish research work but ( not able to concentrate and slept at 3pm ) 
+- People Connect : 
+- LeetCode : 
+
+
+Feb 1, 2024 
+
+- Bath, Exercise, Gita : Yes, did all ! :) 
 - Coursework : 
 - Internship : 
 - Lab Work : 
 - People Connect : 
-- LeetCode : 
+- LeetCode :
 
+Comments : Wasted a lot of time with P and his friends, for no reasons and Youtube but we watched nice movie too, I wanna complete it, its was very funny :) .... 
+
+
+Feb 2 , 2024 
+
+- Bath, Exercise, Gita : Yes, did all ! :) 
+- Coursework : Yes, completed 80 percent assignment for pattern recognition thats due tomorrow ! 
+- Internship :  
+- Lab Work : Yes, completing some pending work as there is meeting tomorrow .... 
+- People Connect : Yes connected with lot of people at sarswati pooja 
+- LeetCode :
+
+Comments : Again wasted a lot of time thinking about P and his friends , I need to control my overthinking and overcome my disturbing factors at any cost and youtube also ! But I attended amazing Sarswati Pooja today organized by Santa Barbara Bengali Community , had nice Indian dinner as well :) My mom motivated me today a lot , to not worry about anything and just focus on my goals and dreams with sincerity :) 
+
+Feb 3, 2024 
+
+- Bath, Exercise, Gita : Yes, did all ! :) 
+- Coursework : 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode :
