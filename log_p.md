@@ -38,7 +38,15 @@
 | 21  | 02-03-25 | Mon | Y, Y, N | N        | N         | Y        | N     | Y      |
 | 22  | 02-04-25 | Tue | Y, Y, Y | N        | N         | Y        | N     |        |
 | 23  | 02-05-25 | Wed | Y, Y, Y | N        | N         | Y        | N     |        |
-| 24  | 02-06-25 | Thr | Y, Y, Y | N        | N         | Y        | N     |        |
+| 24  | 02-06-25 | Thr | Y, Y, Y | N        | N         | N        | N     |        |
+| 25  | 02-07-25 | Fri | N, Y, N | N        | N         | N        | N     |        |
+| 26  | 02-08-25 | Sat | Y, N, N | N        | N         | N        | N     |        |
+| 27  | 02-09-25 | Sun | N, Y, Y | N        | N         | N        | N     |        |
+| 28  | 02-10-25 | Mon | N, N, N | N        | N         | N        | N     |        |
+| 29  | 02-11-25 | Tue | Y, N, N | N        | N         | Y        | N     |        |
+| 30  | 02-12-25 | Wed | Y, Y, Y | N        | N         | Y        | N     |        |
+| 31  | 02-13-25 | Thr | N, N, N | N        | N         | Y        | N     |        |
+| 32  | 02-14-25 | Fri | N, N, N | N        | N         | Y        | N     |        |
 
 
 **Note:**
@@ -316,6 +324,67 @@
 **Wasted time:**
 *
 
+### Day 23: February 5, 2025 - Wednesday
+**Today's Progress**:
+* Bath, Exercise, Gita : did 25 minute exercise today.
+* college : 
+* Lab work :
+* Intership :
+* Leetcode :
+* Linkedin :
+* Extra : *have to update my resume.*
+  
+**Wasted time:**
+*
+
+
+### Day 29: February 11, 2025 - Tuesday
+**Today's Progress**:
+* Bath, Exercise, Gita : not did any exercise today.
+* college : done the assignment of linux kernel programming.
+* Lab work : not did any work today.
+* Intership :
+* Leetcode :
+* Linkedin :
+* Extra : listing to rich dad poor dad. during my travel time.
+**Wasted time:**
+* sleep a lot today.
+
+### Day 30: February 12, 2025 - Wednesday
+**Today's Progress**:
+* Bath, Exercise, Gita : did 10 minute exercise today.
+* college :
+* Lab work :
+* Intership :
+* Leetcode
+* Linkedin :
+* Extra : listing to rich dad poor dad during my travel time.
+**Wasted time:**
+* sleep a lot today.
+
+### Day 31: February 13, 2025 - Thursday
+**Today's Progress**:
+* Bath, Exercise, Gita : did 10 minute exercise today.
+* college : started with the assignment of linux kernel programming.
+* Lab work :
+* Intership :
+* Leetcode
+* Linkedin :
+* Extra : listing to rich dad poor dad during my travel time.
+**Wasted time:**
+* not wasted time today.
+
+### Day 32: February 14, 2025 - Friday
+**Today's Progress**:
+* Bath, Exercise, Gita : did 10 minute exercise today.
+* college : mostly completed assighnment of linux kernel programming.
+* Lab work : got lab work today for ground truth verification and jump call verification using LLVM.
+* Intership :
+* Leetcode
+* Linkedin :
+* Extra : listing to rich dad poor dad during my travel time.
+**Wasted time:**
+* not wasted time today.
 
 <!-- Template for the log file: -->
 <!-- ### Day 1: January 13, 2025 - Monday
