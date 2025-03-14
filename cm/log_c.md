@@ -22,6 +22,8 @@
 | **1** | 02-01-2024 | 10:00 |  [Y]      | [**Y**]  | [**Y**]      | [**Y**]  |       []       | []       | []       | []       |       []     | 
 | **1** | 02-02-2024 | 10:00 |  [Y]      | [**Y**]  | [**Y**]      | [**Y**]  |       []       | []       | [**Y**]       | [**Y**]       |       [**Y**]     | 
 | **1** | 02-03-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
+Sorry ! 
+| **1** | 03-13-2024 | 10:00 |  [Y]      | [Y]  | [Y]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
 
 
 Jan 13, 2024 
@@ -160,4 +162,15 @@ Feb 3, 2024
 - Internship : 
 - Lab Work : 
 - People Connect : 
+- LeetCode :
+
+P told disciple is missing from our side, he is correct ... he has unique power to analyse based on reality and forsee actual outcomes ! I felt guilty of never putting efforts,,,, so decided to atleast update this daily and try to focus in life by just following these goals daily with as much efforts as possible :) 
+
+14th March , 2024 
+
+- Bath, Exercise, Gita : did first 2
+- Coursework : attended 2 lectures 
+- Internship : 
+- Lab Work : went to lab and started working on argo workflows and making DAG and reading postgres and turbogears code .... its too deep ! 
+- People Connect : met with friends today went on beach for night walk come back at 1 am 
 - LeetCode :
