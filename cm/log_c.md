@@ -24,6 +24,7 @@
 | **1** | 02-03-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
 Sorry ! 
 | **1** | 03-13-2024 | 10:00 |  [Y]      | [Y]  | [Y]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
+| **1** | 03-13-2024 | 10:00 |  [Y]      | [Y]  | [N]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
 
 
 Jan 13, 2024 
@@ -173,4 +174,13 @@ P told disciple is missing from our side, he is correct ... he has unique power 
 - Internship : 
 - Lab Work : went to lab and started working on argo workflows and making DAG and reading postgres and turbogears code .... its too deep ! 
 - People Connect : met with friends today went on beach for night walk come back at 1 am 
+- LeetCode :
+
+14th March , 2024 
+
+- Bath, Exercise, Gita : did first only
+- Coursework : assignment was due today, did that 
+- Internship : 
+- Lab Work : went to lab worked for 4 5 hrs , and had 1 meeting too  ! 
+- People Connect : connected with phd 4th yr in event he was super open to so many new things and had gained so much experience with internship and industry people
 - LeetCode :
