@@ -24,7 +24,10 @@
 | **1** | 02-03-2024 | 10:00 |  [Y]      | []  | []      | []  |       []       | []       | []       | []       |       []     | 
 Sorry ! 
 | **1** | 03-13-2024 | 10:00 |  [Y]      | [Y]  | [Y]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
-| **1** | 03-13-2024 | 10:00 |  [Y]      | [Y]  | [N]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
+| **1** | 03-14-2024 | 10:00 |  [Y]      | [Y]  | [N]      | []  |       []       | []       | [Y]       | [Y]       |       [Y]     | 
+| **1** | 03-15-2024 | 10:00 |  [Y]      | [Y]  | [Y]      | []  |       []       | []       | []       | [Y]       |       []     | 
+| **1** | 03-16-2024 | 10:00 |  [Y]      | [Y]  | [Y]      | []  |       []       | []       | []       | [Y]       |       []     | 
+| **1** | 03-16-2024 | 10:00 |  [Y]      | []  | [Y]      | []  |       []       | []       | []       | [Y]       |       []     | 
 
 
 Jan 13, 2024 
@@ -167,7 +170,7 @@ Feb 3, 2024
 
 P told disciple is missing from our side, he is correct ... he has unique power to analyse based on reality and forsee actual outcomes ! I felt guilty of never putting efforts,,,, so decided to atleast update this daily and try to focus in life by just following these goals daily with as much efforts as possible :) 
 
-14th March , 2024 
+13th March , 2024 
 
 - Bath, Exercise, Gita : did first 2
 - Coursework : attended 2 lectures 
@@ -183,4 +186,34 @@ P told disciple is missing from our side, he is correct ... he has unique power 
 - Internship : 
 - Lab Work : went to lab worked for 4 5 hrs , and had 1 meeting too  ! 
 - People Connect : connected with phd 4th yr in event he was super open to so many new things and had gained so much experience with internship and industry people
+- LeetCode :
+
+  
+15th March , 2024 
+
+- Bath, Exercise, Gita : Yes did home exercise only 
+- Coursework : assignment was due today, did that 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode :
+
+16th March , 2024 
+
+- Bath, Exercise, Gita : Yes took bath and went to gym 45 min
+- Coursework : 
+- Internship : 
+- Lab Work : 
+- People Connect : 
+- LeetCode :
+
+Thinking : why I am too distracted and not working at all some days ? Really need to plan my days to be productive ! 
+
+17th March , 2024
+
+- Bath, Exercise, Gita : Yes took bath and went to gym 45 min
+- Coursework : woke up 4 am and in bed studing for 1 hr for exam thats due tommorrow, now working on project report ( did only 15 min ) , submit one course marks and print and study for exam tomorrow ! 
+- Internship : 
+- Lab Work : nothing done :(
+- People Connect : 
 - LeetCode :
